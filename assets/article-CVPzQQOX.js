@@ -1,0 +1,1 @@
+import{a9 as t}from"./request-CqJqwz0G.js";const a=()=>t.get("/article"),i=()=>t.get("/moment"),s=()=>t.get("/picture"),g=e=>t.get(`/article/${e}`),o=e=>t.get(`/article/category/${e}`),n=e=>t.get(`/picture/category/${e}`),u=(e,c)=>t.put(`/article/${e}`,c);export{o as a,g as b,i as c,s as d,n as e,a as g,u};
